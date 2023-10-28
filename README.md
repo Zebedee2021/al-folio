@@ -1,4 +1,4 @@
-# al-folio Zhiguo Zhou
+# al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -174,7 +174,7 @@ Workshop on Diffusion Models (NeurIPS: <a href="https://diffusionworkshop.github
 
 ## Table Of Contents
 
-- [al-folio Zhiguo Zhou](#al-folio-zhiguo-zhou)
+- [al-folio](#al-folio)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
   - [Table Of Contents](#table-of-contents)
